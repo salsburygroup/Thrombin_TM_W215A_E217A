@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 3dadf4b7dc4f021fe4c78b7fafd2d38671de5339
 Introduction
 This repository contains the code and data for our molecular dynamics (MD) simulation study on thrombin, a serine protease crucial in hemostasis. Thrombin exhibits dual functionality in coagulation processes: it favors fibrinogen cleavage in its native form but shifts towards activating protein C when complexed with thrombomodulin (TM). Beyond coagulation, thrombin is implicated in cancer-associated thrombosis, potentially influencing metastasis and tumorigenesis. We spotlight the W215A/E217A (WE) double mutant of thrombin, which exhibits a dramatic reduction in fibrinogen cleavage activity (decreased by 19,000-fold) compared to a modest 7-fold reduction in protein C activation with TM. This disparity in substrate specificity of the WE mutant poses intriguing questions about the molecular mechanisms involved.
 
@@ -50,12 +46,5 @@ Use the Jupyter notebooks pca_calculate.ipynb, pca_plot.ipynb, and pca_plot_exam
 
 Hydrogen Bond Analysis
 
-<<<<<<< HEAD
 Execute the Python script hbond_analysis_resid.py to extract hydrogen bonds from the trajectory. Use select_Hbonds.ipynb to filter hydrogen bonds. For logistic regression analyses, navigate to the logistic_regression_Hbond/ directory and use the R scripts logistic_regression_Hbond.Rmd and logistic_regression_Hbond3.Rmd.
-=======
-Execute the Python script hbond_analysis_resid.py to extract hydrogen bonds from the trajectory. 
-Use select_Hbonds.ipynb to filter hydrogen bonds. 
-For logistic regression analyses, navigate to the logistic_regression_Hbond/ directory and use the R scripts logistic_regression_Hbond.Rmd and logistic_regression_Hbond3.Rmd.
-=
->>>>>>> 3dadf4b7dc4f021fe4c78b7fafd2d38671de5339
 
