@@ -47,3 +47,7 @@ Use the Jupyter notebooks pca_calculate.ipynb, pca_plot.ipynb, and pca_plot_exam
 Hydrogen Bond Analysis
 
 Execute the Python script hbond_analysis_resid.py to extract hydrogen bonds from the trajectory. Use select_Hbonds.ipynb to filter hydrogen bonds. For logistic regression analyses, navigate to the logistic_regression_Hbond/ directory and use the R scripts logistic_regression_Hbond.Rmd and logistic_regression_Hbond3.Rmd.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 05e619c11fb3fda267d2df7a27f05e08cd15ac95
