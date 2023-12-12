@@ -1,0 +1,228 @@
+#########################BEGIN-PROLOG#########################
+JobId             = 2012989
+JobName           = AHsubmit.slurm
+UserId            = wud18(20279)
+GroupId           = wud18(20279)
+MCS_label         = N/A
+Priority          = 532
+Nice              = 0
+Account           = salsburygrp
+QOS               = normal
+Requeue           = 1
+Restarts          = 0
+BatchFlag         = 1
+Reboot            = 0
+ExitCode          = 0:0
+RunTime           = 00:02:01
+TimeLimit         = 365-00:00:00
+TimeMin           = N/A
+SubmitTime        = 2023-06-14T20:58:09
+EligibleTime      = 2023-06-14T20:58:09
+AccrueTime        = 2023-06-14T20:58:09
+StartTime         = 2023-06-14T20:58:27
+EndTime           = 2024-06-13T20:58:27
+Deadline          = N/A
+Partition         = large
+AllocNode:Sid     = comp-21-4:201178
+NodeList          = comp-02-4
+BatchHost         = comp-02-4
+NumNodes          = 1
+NumCPUs           = 1
+NumTasks          = 1
+CPUs/Task         = 1
+ReqB:S:C:T        = 0:0:*:*
+TRES=cpu=1,mem=64G,node=1,billing= cpu=1,mem=64G,node=1,billing=16
+Socks/Node        = *
+NtasksPerN:B:S:C  = 1:0:*:*
+CoreSpec          = *
+MinCPUsNode       = 1
+MinMemoryNode     = 64G
+MinTmpDiskNode    = 0
+Command           = /home/wud18/bash/AHsubmit.slurm
+WorkDir           = /deac/phy/salsburyGrp/wud18/md/TM_mutant/clustering/protein_stride100_catalyticTriad
+StdErr            = /deac/phy/salsburyGrp/wud18/md/TM_mutant/clustering/protein_stride100_catalyticTriad/slurm-2012989.out
+StdOut            = /deac/phy/salsburyGrp/wud18/md/TM_mutant/clustering/protein_stride100_catalyticTriad/slurm-2012989.out
+Power             = 
+NtasksPerTRES:0   = NtasksPerTRES:0
+###########################END-PROLOG#########################
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+cat: .bash_profile: No such file or directory
+cat: .command: No such file or directory
+   PID TTY          TIME CMD
+ 56464 ?        00:00:00 bash
+ 56467 ?        00:00:00 bash
+ 57581 ?        00:00:00 bash
+ 57715 ?        00:00:00 slurm_script
+ 57723 ?        00:00:00 slurm_script
+ 58031 ?        00:00:00 bash
+ 58627 ?        00:00:00 bash
+ 58628 ?        00:00:00 conda
+ 58629 ?        00:00:00 bash
+ 58630 ?        00:00:00 conda
+ 58784 ?        00:00:00 bash
+ 58785 ?        00:00:00 conda
+ 58842 ?        00:00:00 ls
+ 58897 ?        00:00:00 python
+ 58898 ?        00:00:00 ps
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012981.out  slurm-2012989.out
+/deac/phy/salsburyGrp/wud18/install/anaconda3/envs/py36/lib/python3.6/site-packages/pyemma/__init__.py:92: UserWarning: You are not using the latest release of PyEMMA. Latest is 2.5.7, you have 2.5.6.
+  .format(latest=latest, current=current), category=UserWarning)
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+Make sure to use the absolute path for output directory(-o)

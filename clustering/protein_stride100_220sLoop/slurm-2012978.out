@@ -1,0 +1,266 @@
+#########################BEGIN-PROLOG#########################
+JobId             = 2012978
+JobName           = HDsubmit.slurm
+UserId            = wud18(20279)
+GroupId           = wud18(20279)
+MCS_label         = N/A
+Priority          = 865
+Nice              = 0
+Account           = salsburygrp
+QOS               = normal
+Requeue           = 1
+Restarts          = 0
+BatchFlag         = 1
+Reboot            = 0
+ExitCode          = 0:0
+RunTime           = 00:02:01
+TimeLimit         = 1-00:00:00
+TimeMin           = N/A
+SubmitTime        = 2023-06-14T20:58:09
+EligibleTime      = 2023-06-14T20:58:09
+AccrueTime        = 2023-06-14T20:58:09
+StartTime         = 2023-06-14T20:58:09
+EndTime           = 2023-06-15T20:58:09
+Deadline          = N/A
+Partition         = small
+AllocNode:Sid     = comp-21-4:201178
+NodeList          = comp-23-6
+BatchHost         = comp-23-6
+NumNodes          = 1
+NumCPUs           = 1
+NumTasks          = 1
+CPUs/Task         = 1
+ReqB:S:C:T        = 0:0:*:*
+TRES=cpu=1,mem=32G,node=1,billing= cpu=1,mem=32G,node=1,billing=8
+Socks/Node        = *
+NtasksPerN:B:S:C  = 1:0:*:*
+CoreSpec          = *
+MinCPUsNode       = 1
+MinMemoryNode     = 32G
+MinTmpDiskNode    = 0
+Command           = /home/wud18/bash/HDsubmit.slurm
+WorkDir           = /deac/phy/salsburyGrp/wud18/md/TM_mutant/clustering/protein_stride100_220sLoop
+StdErr            = /deac/phy/salsburyGrp/wud18/md/TM_mutant/clustering/protein_stride100_220sLoop/slurm-2012978.out
+StdOut            = /deac/phy/salsburyGrp/wud18/md/TM_mutant/clustering/protein_stride100_220sLoop/slurm-2012978.out
+Power             = 
+NtasksPerTRES:0   = NtasksPerTRES:0
+###########################END-PROLOG#########################
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+cp: cannot create regular file ‘/home/wud18/.bash_profile_revise’: File exists
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+sed: can't read .bash_profile_revise: No such file or directory
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+cat: .bash_profile: No such file or directory
+cat: .command: No such file or directory
+   PID TTY          TIME CMD
+219710 ?        00:00:00 bash
+219872 ?        00:00:00 bash
+220016 ?        00:00:00 bash
+220843 ?        00:00:00 slurm_script
+221376 ?        00:00:00 bash
+221820 ?        00:00:00 slurm_script
+222301 ?        00:00:00 slurm_script
+226893 ?        00:00:00 slurm_script
+229307 ?        00:00:00 bash
+229308 ?        00:00:00 conda
+229580 ?        00:00:00 python
+229581 ?        00:00:00 bash
+229582 ?        00:00:00 bash
+229583 ?        00:00:00 conda
+229584 ?        00:00:00 conda
+229585 ?        00:00:00 bash
+229586 ?        00:00:00 conda
+229589 ?        00:00:00 python
+229649 ?        00:00:00 ps
+/home/wud18/.alias: line 34: cd: HOME not set
+HDBSCAN/  IMWKRescaled/  slurm-2012978.out  slurm-2012991.out
+/deac/phy/salsburyGrp/wud18/install/anaconda3/envs/py36/lib/python3.6/site-packages/matplotlib/style/core.py:153: UserWarning: In /deac/phy/salsburyGrp/wud18/install/anaconda3/envs/py36/lib/python3.6/site-packages/matplotlib/mpl-data/stylelib/seaborn-paper.mplstyle: You are not using the latest release of PyEMMA. Latest is 2.5.7, you have 2.5.6.
+  library = read_style_directory(BASE_LIBRARY_PATH)
+/deac/phy/salsburyGrp/wud18/site-packages/Analysis/Cluster/Scorer.py:70: UserWarning: More than 10,000 samples. Silhouette will score on random sampling of 10,000.To override, score directly with scikit-learn
+  warnings.warn("More than 10,000 samples. "
+Make sure to use the absolute path for output directory(-o)
